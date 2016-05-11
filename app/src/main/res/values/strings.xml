@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Detectcall7</string>
+    <string name="device_description">android device</string>
+    <string name="device_admin_label">Device Admin</string>
+</resources>
